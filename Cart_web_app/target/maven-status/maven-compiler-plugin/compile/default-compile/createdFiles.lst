@@ -1,0 +1,11 @@
+model\Item$ItemBuilder.class
+dao\ItemDAO.class
+ItemsShopUpdateServlet.class
+server\ShoppingCartManagerImpl.class
+model\ItemInfo.class
+server\ShoppingCartManager.class
+ItemsShopServlet.class
+model\Item.class
+server\ShoppingCartManagerFactory.class
+dao\ItemDAOFactory.class
+dao\ItemDAOImpl.class
